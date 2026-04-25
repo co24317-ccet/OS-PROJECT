@@ -1,4 +1,5 @@
-# ML-Based Page Replacement (Streamlit UI)
+# ML-Based Page Replacement Project CO24317 
+
 
 ## Run
 ```bash
@@ -11,4 +12,4 @@ streamlit run app.py
 - algorithms/: FIFO, LRU, ML policy
 - simulator/: controller
 - utils/: trace generator, metrics
-- ml/: predictor stubs (plug your trained model here)
+- ml/: predictor 
